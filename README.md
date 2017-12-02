@@ -1,2 +1,2 @@
 # LearnGit
-  Create a new branch Dev
+  create a new branch dev
