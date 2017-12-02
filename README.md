@@ -3,4 +3,4 @@
   test merge with no-ff
   a
   b
-  c
+  f
